@@ -7,9 +7,11 @@
 
 This Project is under progress (2020)
 
+1.宽基指数分析 ✅
+
 <hr/>
 
-### Index-Fund（ETF） Analysis: 
+### Index-Fund（ETF） Analysis(指数型基金分析): 
 
 (更多指数估值、配置分析、ETF分析可见报告3 )
 
